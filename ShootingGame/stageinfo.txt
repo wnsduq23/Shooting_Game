@@ -1,0 +1,20 @@
+stage_max=3
+# stage 1
+enemy_cnt 5
+enemy1 14 5
+enemy2 0 0
+enemy1 20 5
+enemy1 60 5
+enemy1 50 2
+# stage 2
+enemy_cnt 6
+enemy1 41 5
+enemy2 0 0
+enemy1 20 5
+enemy1 60 5
+enemy1 50 2
+enemy2 50 4
+# stage 3
+enemy_cnt 2
+enemy1 41 5
+enemy2 0 0

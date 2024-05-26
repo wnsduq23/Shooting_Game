@@ -1,0 +1,7 @@
+# enemy1
+move_pattern move1.txt
+health 1
+
+# enemy2
+move_pattern move2.txt
+health 2
